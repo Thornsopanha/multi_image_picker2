@@ -20,10 +20,10 @@ import androidx.annotation.NonNull;
 import androidx.core.content.ContextCompat;
 import androidx.exifinterface.media.ExifInterface;
 
-import com.sangcomz.fishbun.FishBun
-import com.sangcomz.fishbun.FishBunCreator
-import com.sangcomz.fishbun.MimeType
-import com.sangcomz.fishbun.adapter.image.impl.GlideAdapter
+import com.sangcomz.fishbun.FishBun;
+import com.sangcomz.fishbun.FishBunCreator;
+import com.sangcomz.fishbun.MimeType;
+import com.sangcomz.fishbun.adapter.image.impl.GlideAdapter;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
